@@ -1,10 +1,9 @@
 < Debashish Hemant Sanyal >
 < UNI dhs2143 >
-CSEE 4119: Computer Networks, Fall 2015
-Programming Assignment 3: Distributed Bellman­Ford
-< 12/05/2015 >
+CSEE 4119: Computer Networks, Fall 2015, Columbia University
+Distributed Bellman­Ford
 
-Submission deadline: < 12/09/2015 >
+Date: < 12/09/2015 >
 
 ***Distributed Bellman­Ford***
 
