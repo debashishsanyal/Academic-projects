@@ -1,5 +1,7 @@
 # w4111-Project
-Introduction to Databases project
+Introduction to Databases project:
+This application is a search platform that allows users to find Academicians, Researchers, Publication, Conferences or Journals based on multiple search criteria. PostgreSQL database. Python with Flask for the back end.
+
 
 Install the following:
 
