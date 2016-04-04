@@ -3,6 +3,12 @@
 #Distributed Bellman­Ford
 #< 12/05/2015 >
 
+"""
+Program features:
+1. Dynamic addition of nodes.
+2. Distance Vectors converge as expected (shortest path).
+3. Poisoned reverse implemented.
+"""
 #######################
 #A brief description of how this program handles various events:
 #######################
