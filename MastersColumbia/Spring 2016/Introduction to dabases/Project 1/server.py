@@ -17,9 +17,6 @@ python server.py
 Go to http://localhost:8111 in your browser
 
 
-
-A debugger such as "pdb" may be helpful for debugging.
-Read about it online.
 """
 
 import os
