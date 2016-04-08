@@ -1,4 +1,4 @@
-# Introduction to Databases project:
+# Introduction to Databases project
 w4111: Introduction to Databases - Evan Jones, Columbia University
 
 Spring 2016
