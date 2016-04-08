@@ -3,6 +3,7 @@ W4111 002- Introduction to Databases, Columbia University
 Project, Part 2
 SQL Schema
 Members: Apoorv Prakash Pathwardhan (UNI ap3341), Debashish Hemant Sanyal (UNI dhs2143)
+Date: March,2016
 */
 
 -- USERS
