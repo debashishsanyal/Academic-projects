@@ -1,5 +1,6 @@
-# w4111-Project
-Introduction to Databases project:
+# Introduction to Databases project:
+w4111: Introduction to Databases - Evan Jones, Columbia University
+Spring 2016
 This application is a search platform that allows users to find Academicians, Researchers, Publication, Conferences or Journals based on multiple search criteria. PostgreSQL database. Python with Flask for the back end.
 
 
