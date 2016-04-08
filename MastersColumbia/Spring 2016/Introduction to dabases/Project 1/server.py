@@ -4,6 +4,7 @@
 Reference: Columbia W4111 Intro to databases project
 Authors: Debashish Hemant Sanyal (dhs2143)
          Apoorv Patwardhan (ap3341)
+Date: March 2016
 
 The application is a search platform that allows users to find Academicians, Researchers, Publication, Conferences or Journals 
 based on multiple search criteria. PostgreSQL database used.
